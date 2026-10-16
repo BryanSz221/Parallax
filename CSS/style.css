@@ -19,19 +19,19 @@
 
 .natureza {
     height: 100vh;
-    background-image: url("../assets/natureza.webp");
+    background-image: url("../ASSETS/natureza.webp");
 }
 
 .praias {
-    background-image: url("../assets/praias.webp");
+    background-image: url("../ASSETS/praias.webp");
 }
 
 .montanhas {
-    background-image: url("../assets/montanhas.webp");
+    background-image: url("../ASSETS/montanhas.webp");
 }
 
 .florestas {
-    background-image: url("../assets/Florestas.webp");
+    background-image: url("../ASSETS/Florestas.webp");
 }
 
 .titulo {
